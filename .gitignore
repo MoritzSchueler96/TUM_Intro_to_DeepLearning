@@ -1,0 +1,19 @@
+#### Taken from: https://github.com/github/gitignore/blob/master/Python.gitignore
+#################################################################################
+
+# models and zips
+*.p
+*.model
+*.zip
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Large files
+datasets/landmark_data
+datasets/cifar10
+
+
+#### Remove stuff from above as needed ####
+###########################################
+####     Add stuf below as needed      ####
